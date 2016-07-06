@@ -3,138 +3,139 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-06 13:54+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2016-07-07 00:36+0400\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: uk\n"
 
 #: SMSFlyCRM/SMSApp/forms/alphaname.py:24 SMSFlyCRM/SMSApp/forms/task.py:144
 #: SMSFlyCRM/SMSApp/templates/alphaname/list.html:16
 msgid "Alphaname"
-msgstr ""
+msgstr "Альфа-ім'я"
 
 #: SMSFlyCRM/SMSApp/forms/message.py:8
 msgid "Elector's phone #"
-msgstr ""
+msgstr "Мобільний телефон виборця"
 
 #: SMSFlyCRM/SMSApp/forms/message.py:9
 msgid "Elector's surname"
-msgstr ""
+msgstr "Прізвище виборця"
 
 #: SMSFlyCRM/SMSApp/forms/message.py:10
 msgid "Elector's first name"
-msgstr ""
+msgstr "Ім'я виборця"
 
 #: SMSFlyCRM/SMSApp/forms/message.py:11
 msgid "Elector's patronymic"
-msgstr ""
+msgstr "По батькові виборця"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:39
 msgid "Start date"
-msgstr ""
+msgstr "Дата початку"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:53
 msgid "Send to all electors"
-msgstr ""
+msgstr "Надіслати всім виборцям"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:55
 msgid "Age from"
-msgstr ""
+msgstr "Вік від"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:57
 msgid "Age to"
-msgstr ""
+msgstr "Вік до"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:59 SMSFlyCRM/SMSApp/forms/task.py:72
 msgid "Region"
-msgstr ""
+msgstr "Область"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:61 SMSFlyCRM/SMSApp/forms/task.py:74
 msgid "Area"
-msgstr ""
+msgstr "Район"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:65 SMSFlyCRM/SMSApp/forms/task.py:76
 msgid "Locality"
-msgstr ""
+msgstr "Населений пункт"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:68 SMSFlyCRM/SMSApp/forms/task.py:79
 msgid "Street"
-msgstr ""
+msgstr "Вулиця"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:70 SMSFlyCRM/SMSApp/forms/task.py:81
 msgid "Building"
-msgstr ""
+msgstr "Будинок"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:83
 msgid "Gender"
-msgstr ""
+msgstr "Стать"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:85
 msgid "Family status"
-msgstr ""
+msgstr "Сімейний стан"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:88
 msgid "Education"
-msgstr ""
+msgstr "Освіта"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:90
 msgid "Social Category"
-msgstr ""
+msgstr "Соціальна категорія"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:93
 msgid "Poll place"
-msgstr ""
+msgstr "Виборча дільниця"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:96 SMSFlyCRM/SMSApp/forms/task.py:153
 msgid "Contact"
-msgstr ""
+msgstr "Контакти"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:99 SMSFlyCRM/SMSApp/forms/task.py:154
 msgid "Candidate"
-msgstr ""
+msgstr "Кандидат"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:102 SMSFlyCRM/SMSApp/forms/task.py:152
 #: SMSFlyCRM/SMSApp/forms/task.py:155
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:20
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:145
 msgid "Template title"
-msgstr ""
+msgstr "Назва шаблону"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:146
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:147
 msgid "Message text"
-msgstr ""
+msgstr "Текст повідомлення"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:150
 msgid "Mailing type"
-msgstr ""
+msgstr "Тип розсилки"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:151
 msgid "Project"
-msgstr ""
+msgstr "Проект"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:204
 msgid "End date"
-msgstr ""
+msgstr "Дата закінчення"
 
 #: SMSFlyCRM/SMSApp/models/alphaname.py:24
 msgid "{} ({}). Registered on {} by {}"
-msgstr ""
+msgstr "{} ({}). Зареєстрований на {} з {}"
 
 #: SMSFlyCRM/SMSApp/models/campaign.py:14
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:23
@@ -145,257 +146,257 @@ msgstr ""
 #: SMSFlyCRM/SMSApp/templates/campaign/list-archived.html:10
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:37
 msgid "Noname"
-msgstr ""
+msgstr "Без ім'я"
 
 #: SMSFlyCRM/SMSApp/models/message.py:53
 msgid "{} to {}  ({})"
-msgstr ""
+msgstr "{} до {}  ({})"
 
 #: SMSFlyCRM/SMSApp/models/task.py:23
 msgid "On elector's birthday"
-msgstr ""
+msgstr "В день народження виборця"
 
 #: SMSFlyCRM/SMSApp/models/task.py:24
 msgid "On adding elector to the database"
-msgstr ""
+msgstr "При додаванні виборця в базу даних"
 
 #: SMSFlyCRM/SMSApp/models/task.py:25
 msgid "Elector touched"
-msgstr ""
+msgstr "При внесенні контакту з виборцем в базу"
 
 #: SMSFlyCRM/SMSApp/models/task.py:26
 msgid "On elector status change"
-msgstr ""
+msgstr "При зміні статусу виборця"
 
 #: SMSFlyCRM/SMSApp/models/task.py:57
 msgid "Cannot activate an out-of-date task"
-msgstr ""
+msgstr "Неможливо активувати застарілу задачу"
 
 #: SMSFlyCRM/SMSApp/models/task.py:68
 msgid "Cannot pause a one-time task"
-msgstr ""
+msgstr "Неможливо зупинити одноразову задачу"
 
 #: SMSFlyCRM/SMSApp/models/task.py:71
 msgid "Cannot pause an out-of-date task"
-msgstr ""
+msgstr "Неможливо зупинити застарілу задачу"
 
 #: SMSFlyCRM/SMSApp/templates/alphaname/list.html:8
 msgid "New alphaname"
-msgstr ""
+msgstr "Нове альфа-ім'я"
 
 #: SMSFlyCRM/SMSApp/templates/alphaname/list.html:17
 msgid "Registration date"
-msgstr ""
+msgstr "Дата регістрації"
 
 #: SMSFlyCRM/SMSApp/templates/alphaname/list.html:18
 msgid "Registered by"
-msgstr ""
+msgstr "Зареєстрований"
 
 #: SMSFlyCRM/SMSApp/templates/alphaname/new.html:10
 msgid "Create an alphaname"
-msgstr ""
+msgstr "Створити альфа-ім'я"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/edit.html:37
 msgid "Send"
-msgstr ""
+msgstr "Надіслати"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:9
 msgid "Title"
-msgstr ""
+msgstr "Назва"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:10
 msgid "Recipients amount"
-msgstr ""
+msgstr "Кількість отримувачів"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:11
 msgid "Estimated cost"
-msgstr ""
+msgstr "Орієнтовна вартість"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:12
 msgid "Actions"
-msgstr ""
+msgstr "Дії"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:13
 msgid "Next send time"
-msgstr ""
+msgstr "Час наступного надсилання"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:14
 msgid "Last send time"
-msgstr ""
+msgstr "Час останнього надсилання"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:15
 msgid "Effective since"
-msgstr ""
+msgstr "Діє з"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:16
 msgid "Active till"
-msgstr ""
+msgstr "Активний до"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:25
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:40
 #: SMSFlyCRM/SMSApp/templates/campaign/list-archived.html:9
 msgid "UAH"
-msgstr ""
+msgstr "грн"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:26
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:41
 #: SMSFlyCRM/SMSApp/templates/campaign/list-archived.html:10
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:26
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:26
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:41
 #: SMSFlyCRM/SMSApp/views/campaigns_list.py:31
 msgid "Archive"
-msgstr ""
+msgstr "Архівувати"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:27
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:42
 #: SMSFlyCRM/SMSApp/templates/campaign/list-archived.html:11
 msgid "N/A"
-msgstr ""
+msgstr "Немає даних"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:28
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:43
 #: SMSFlyCRM/SMSApp/templates/campaign/list-archived.html:12
 msgid "never"
-msgstr ""
+msgstr "ніколи"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:30
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:45
 #: SMSFlyCRM/SMSApp/templates/campaign/list-archived.html:14
 msgid "forever"
-msgstr ""
+msgstr "завжди"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:38
 msgid "paused"
-msgstr ""
+msgstr "тимчасово зупинений"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:41
 msgid "Activate"
-msgstr ""
+msgstr "Активувати"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-base.html:7
 msgid "New template (one-time)"
-msgstr ""
+msgstr "Новий шаблон (одноразовий)"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-base.html:8
 msgid "New template (recurring)"
-msgstr ""
+msgstr "Новий шаблон (повторюваний)"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-base.html:9
 msgid "New template (event-driven)"
-msgstr ""
+msgstr "Новий шаблон (подійний)"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:14
 msgid "Registration address"
-msgstr ""
+msgstr "Адреса реєстрації"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:30
 msgid "Actual address"
-msgstr ""
+msgstr "Фактична адреса"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:49
 msgid "Recipients:"
-msgstr ""
+msgstr "Отримувачі:"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:52
 msgid "Campaign cost:"
-msgstr ""
+msgstr "Вартість кампанії:"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:55
 msgid "SMS price:"
-msgstr ""
+msgstr "Вартість SMS:"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:64
 msgid "Search by full name"
-msgstr ""
+msgstr "Пошук за повним ім'ям"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:67
 msgid "Search by phone number"
-msgstr ""
+msgstr "Пошук за номером телефону"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:70
 msgid "Preview recipients"
-msgstr ""
+msgstr "Перегляд одержувача"
 
 #: SMSFlyCRM/SMSApp/templates/components/navbar.html:4
 #: SMSFlyCRM/SMSApp/templates/main.html:8
 msgid "Alphanames list"
-msgstr ""
+msgstr "Список альфа-імен"
 
 #: SMSFlyCRM/SMSApp/templates/components/navbar.html:5
 #: SMSFlyCRM/SMSApp/templates/main.html:9
 msgid "Campaign templates"
-msgstr ""
+msgstr "Шаблони кампанії"
 
 #: SMSFlyCRM/SMSApp/templates/components/navbar.html:6
 #: SMSFlyCRM/SMSApp/templates/main.html:10
 msgid "Sent messages"
-msgstr ""
+msgstr "Надіслані повідомлення"
 
 #: SMSFlyCRM/SMSApp/templates/components/navbar.html:7
 #: SMSFlyCRM/SMSApp/templates/main.html:11
 msgid "Stats"
-msgstr ""
+msgstr "Статистика"
 
 #: SMSFlyCRM/SMSApp/templates/components/text-buttons.html:3
 msgid "Last name"
-msgstr ""
+msgstr "Прізвище"
 
 #: SMSFlyCRM/SMSApp/templates/components/text-buttons.html:4
 msgid "First name"
-msgstr ""
+msgstr "Ім'я"
 
 #: SMSFlyCRM/SMSApp/templates/components/text-buttons.html:5
 msgid "Middle name"
-msgstr ""
+msgstr "По батькові"
 
 #: SMSFlyCRM/SMSApp/templates/components/text-buttons.html:6
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:19
 msgid "Phone number"
-msgstr ""
+msgstr "Номер телефону"
 
 #: SMSFlyCRM/SMSApp/templates/components/text-buttons.html:7
 msgid "Address"
-msgstr ""
+msgstr "Адреса"
 
 #: SMSFlyCRM/SMSApp/templates/components/under-construction.html:4
 msgid "Achtung! This chapter is currently under construction!"
-msgstr ""
+msgstr "Увага! Ця сторінка знаходиться на стадії розробки"
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:9
 msgid "Apply filters"
-msgstr ""
+msgstr "Застосувати фільтри"
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:9
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:15
 msgid "Template"
-msgstr ""
+msgstr "Шаблон"
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:16
 msgid "Filters"
-msgstr ""
+msgstr "Фільтри"
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:17
 msgid "Sent at"
-msgstr ""
+msgstr "Надіслано в"
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:18
 msgid "Receiver"
-msgstr ""
+msgstr "Отримувач"
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:21
 msgid "Cost"
-msgstr ""
+msgstr "Ціна"
 
 #: SMSFlyCRM/SMSApp/views/campaigns_list.py:27
 msgid "Active"
-msgstr ""
+msgstr "Активний"
