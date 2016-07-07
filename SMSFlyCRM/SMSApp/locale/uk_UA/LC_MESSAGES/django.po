@@ -5,7 +5,6 @@
 #
 msgid ""
 msgstr ""
-<<<<<<< HEAD
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-06 13:54+0000\n"
@@ -16,20 +15,6 @@ msgstr ""
 "Language-Team: uk\n"
 "X-Generator: Poedit 1.8.8\n"
 "Last-Translator: Nikolay_R\n"
-=======
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-06 13:54+0000\n"
-"PO-Revision-Date: 2016-07-07 00:36+0400\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language-Team: \n"
-"X-Generator: Poedit 1.8.8\n"
-"Last-Translator: \n"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"Language: uk\n"
 
 #: SMSFlyCRM/SMSApp/forms/alphaname.py:24 SMSFlyCRM/SMSApp/forms/task.py:144
 #: SMSFlyCRM/SMSApp/templates/alphaname/list.html:16
@@ -110,11 +95,7 @@ msgstr "Виборча дільниця"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:96 SMSFlyCRM/SMSApp/forms/task.py:153
 msgid "Contact"
-<<<<<<< HEAD
-msgstr "Контакт"
-=======
 msgstr "Контакти"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/forms/task.py:99 SMSFlyCRM/SMSApp/forms/task.py:154
 msgid "Candidate"
@@ -148,19 +129,15 @@ msgstr "Проект"
 
 #: SMSFlyCRM/SMSApp/forms/task.py:204
 msgid "End date"
-<<<<<<< HEAD
 msgstr "Дата завершення"
 
 #: SMSFlyCRM/SMSApp/models/alphaname.py:24
 msgid "{} ({}). Registered on {} by {}"
 msgstr "{} ({}). Зареєстрований {} користувачем {}"
-=======
-msgstr "Дата закінчення"
 
 #: SMSFlyCRM/SMSApp/models/alphaname.py:24
 msgid "{} ({}). Registered on {} by {}"
 msgstr "{} ({}). Зареєстрований на {} з {}"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/models/campaign.py:14
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:23
@@ -171,11 +148,7 @@ msgstr "{} ({}). Зареєстрований на {} з {}"
 #: SMSFlyCRM/SMSApp/templates/campaign/list-archived.html:10
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:37
 msgid "Noname"
-<<<<<<< HEAD
 msgstr "Без назви"
-=======
-msgstr "Без ім'я"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/models/message.py:53
 msgid "{} to {}  ({})"
@@ -183,11 +156,7 @@ msgstr "{} до {}  ({})"
 
 #: SMSFlyCRM/SMSApp/models/task.py:23
 msgid "On elector's birthday"
-<<<<<<< HEAD
 msgstr "В День Народження виборця"
-=======
-msgstr "В день народження виборця"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/models/task.py:24
 msgid "On adding elector to the database"
@@ -219,11 +188,7 @@ msgstr "Нове альфа-ім'я"
 
 #: SMSFlyCRM/SMSApp/templates/alphaname/list.html:17
 msgid "Registration date"
-<<<<<<< HEAD
 msgstr "Дата реєстрації"
-=======
-msgstr "Дата регістрації"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/templates/alphaname/list.html:18
 msgid "Registered by"
@@ -295,11 +260,7 @@ msgstr "Архівувати"
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:42
 #: SMSFlyCRM/SMSApp/templates/campaign/list-archived.html:11
 msgid "N/A"
-<<<<<<< HEAD
 msgstr "Н/Д"
-=======
-msgstr "Немає даних"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:28
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:43
@@ -311,19 +272,11 @@ msgstr "ніколи"
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:45
 #: SMSFlyCRM/SMSApp/templates/campaign/list-archived.html:14
 msgid "forever"
-<<<<<<< HEAD
 msgstr "вічно"
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:38
 msgid "paused"
 msgstr "призупинений"
-=======
-msgstr "завжди"
-
-#: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:38
-msgid "paused"
-msgstr "тимчасово зупинений"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/templates/campaign/list-active.html:41
 msgid "Activate"
@@ -343,11 +296,7 @@ msgstr "Новий шаблон (подійний)"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:14
 msgid "Registration address"
-<<<<<<< HEAD
 msgstr "Адреса прописки"
-=======
-msgstr "Адреса реєстрації"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:30
 msgid "Actual address"
@@ -363,11 +312,7 @@ msgstr "Вартість кампанії:"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:55
 msgid "SMS price:"
-<<<<<<< HEAD
 msgstr "Ціна SMS:"
-=======
-msgstr "Вартість SMS:"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:64
 msgid "Search by full name"
@@ -379,11 +324,7 @@ msgstr "Пошук за номером телефону"
 
 #: SMSFlyCRM/SMSApp/templates/components/filters.html:70
 msgid "Preview recipients"
-<<<<<<< HEAD
 msgstr "Перегляд одержувачів"
-=======
-msgstr "Перегляд одержувача"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/templates/components/navbar.html:4
 #: SMSFlyCRM/SMSApp/templates/main.html:8
@@ -393,11 +334,7 @@ msgstr "Список альфа-імен"
 #: SMSFlyCRM/SMSApp/templates/components/navbar.html:5
 #: SMSFlyCRM/SMSApp/templates/main.html:9
 msgid "Campaign templates"
-<<<<<<< HEAD
 msgstr "Шаблони кампаній"
-=======
-msgstr "Шаблони кампанії"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/templates/components/navbar.html:6
 #: SMSFlyCRM/SMSApp/templates/main.html:10
@@ -432,11 +369,7 @@ msgstr "Адреса"
 
 #: SMSFlyCRM/SMSApp/templates/components/under-construction.html:4
 msgid "Achtung! This chapter is currently under construction!"
-<<<<<<< HEAD
 msgstr "Увага! Ця сторінка знаходиться на стадії розробки!"
-=======
-msgstr "Увага! Ця сторінка знаходиться на стадії розробки"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:9
 msgid "Apply filters"
@@ -456,11 +389,7 @@ msgstr "Фільтри"
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:17
 msgid "Sent at"
-<<<<<<< HEAD
 msgstr "Надіслано о"
-=======
-msgstr "Надіслано в"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:18
 msgid "Receiver"
@@ -468,11 +397,7 @@ msgstr "Отримувач"
 
 #: SMSFlyCRM/SMSApp/templates/sent-messages.html:21
 msgid "Cost"
-<<<<<<< HEAD
 msgstr "Вартість"
-=======
-msgstr "Ціна"
->>>>>>> 9e0a573b366b565c9917385be8fa4ba2724e9d13
 
 #: SMSFlyCRM/SMSApp/views/campaigns_list.py:27
 msgid "Active"
